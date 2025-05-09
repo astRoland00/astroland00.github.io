@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(147, 189, 220);
+    background: linear-gradient(rgb(193, 193, 252),rgb(111, 93, 251));
     font-family: Arial;
 }
 
@@ -15,4 +15,31 @@ main{
     height: 300px;
     border-radius: 20px;
     padding: 20px;
+}
+#container{
+    text-align: center;
+    margin: auto;
+
+}
+#container div {
+    display: inline-block;
+    width: 30rem;
+    background-color: rgb(97, 94, 252);
+    border-radius: 50px;
+    margin: 30px 30px 30px;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+}
+#container div h3{
+    margin: auto;
+    padding: 15px 15px 15px 15px;
+    display: block;
+    text-align: center;
+    width: fit-content;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(193, 193, 252);
+}
+footer{
+    text-align: center;
 }
