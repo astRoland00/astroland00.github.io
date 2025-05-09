@@ -10,7 +10,7 @@ main{
     margin: auto;
 
     text-align: center;
-    background-color: rgb(130, 138, 163);
+    
 
     border-radius: 20px;
     padding: 20px;
@@ -23,9 +23,9 @@ main{
 #container div {
     display: inline-block;
     width: 30rem;
-    background-color: rgb(97, 94, 252);
+    background-color: rgba(191, 190, 255, 0.586);
     border-radius: 50px;
-    margin: 30px 30px 30px;
+    margin: 30px 30px 30px 30px;
     text-align: center;
     padding: 20px 20px 20px 20px;
 }
