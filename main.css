@@ -2,6 +2,7 @@ body{
     background: linear-gradient(rgb(193, 193, 252),rgb(111, 93, 251));
     font-family: Arial;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
 }
 
@@ -42,5 +43,6 @@ main{
     background-color: rgb(193, 193, 252);
 }
 footer{
+    position: relative;
     text-align: center;
 }
