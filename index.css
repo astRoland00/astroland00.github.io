@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(129, 185, 189);
+    font-family: Arial;
+    color: black;
+    text-align: center;
+}
+a{
+    color: black;
+    font-size: 50px;
+    width: 300px;
+    background-color: rgb(60, 121, 121);
+    padding: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    text-align: center;
+    transition: 0.2s ease;
+    display: block;
+    margin: auto;
+    box-shadow: 20px 20px 40px  rgb(48, 47, 47);
+}
+a:hover{
+    transform: scale(120%);
+}
+main{
+
+    margin-top: 100px;
+    display: grid;
+    gap: 40px;
+}
